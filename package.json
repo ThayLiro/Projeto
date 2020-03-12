@@ -1,0 +1,19 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Projeto para a aula 2 de TAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThayLiro/Projeto.git"
+  },
+  "author": "Thaynara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThayLiro/Projeto/issues"
+  },
+  "homepage": "https://github.com/ThayLiro/Projeto#readme"
+}
