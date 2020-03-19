@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThayLiro/Projeto/issues"
   },
-  "homepage": "https://github.com/ThayLiro/Projeto#readme"
+  "homepage": "https://github.com/ThayLiro/Projeto#readme",
+  "dependencies": {
+    "archiver": "^3.1.1"
+  }
 }
